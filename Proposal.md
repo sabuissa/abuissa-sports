@@ -2,30 +2,28 @@
 
 ## Client Brief
 
-**Client:** Abdulrahim Abuissa — my brother. A Qatari professional basketball player, entrepreneur, and founder of Abuissa Sports. First Qatari to play NCAA Division I basketball.
+**Client:** Abdulrahim Abuissa (my brother) — Qatari entrepreneur, investor, professional basketball player, and social impact leader. First Qatari to play NCAA Division I basketball; founder of Abuissa Sports / AI Sports Academy; FIBA Foundation Youth Leader.
 
-**Purpose:** A personal website to establish his professional identity online — a single home base that tells his story across basketball, business, and community work, and gives people a clear way to reach him. He has a registered domain and plans to launch a personal site, so this serves as a real first version.
+**Purpose:** A personal profile and digital presence — a central place for people to understand his professional journey, ventures, athletic career, and social impact work, rather than searching across multiple platforms.
 
-**Audience:** Sponsors, media, partners, and people in the sports and business world who come across his name and want to learn who he is and get in touch. 
+**Audience:** Business partners and investors, potential employers and clients, startup founders seeking investment or mentorship, sports organizations, community organizations and NGOs, media, and young entrepreneurs.
 
-**Key action:** Get in touch — the site guides visitors toward the contact page so opportunities (partnerships, speaking, collaborations) can reach him directly.
+**Key action:** Reach out regarding business opportunities, investments, partnerships, speaking engagements, social impact projects, or collaborations.
 
-**Pages/sections needed:**
-- Home — hero with his name and tagline, and three pillars: Basketball, Entrepreneurship, Community
-- About — his full story: NCAA D1 playing career, national team, Abuissa Sports, and FIBA/Basketball for Good work
-- Contact — a contact form plus his email and Instagram/LinkedIn links
+**Pages/sections needed (client's full vision):** Home, About Me, Business & Investments, Social Impact, Sports, Achievements, Interests, Contact. *This first iteration delivers the core three: Home, About, and Contact, with the remaining sections planned for iteration two.*
 
-**Content status:** Bio, career milestones, and achievements sourced from his CV and LinkedIn and confirmed with him directly. Photos (FIBA Youth Leader and event shots) provided by him. Some specifics (exact phrasing of certain claims, final email) confirmed in conversation.
+**Content status:** Bio, career, and achievements confirmed directly with the client and supported by his CV. Photos provided by him. Some sections (Business & Investments, full media links) to be expanded in iteration two.
 
-**Style preferences:** Dark theme with an orange accent — orange is his favorite color, which he confirmed. Clean and modern, with a script-style treatment of his name for a personal, signature feel. Loosely tied to the energy of his Abuissa Sports brand without copying it.
+**Style preferences:** Clean, modern, minimalist, premium — similar to a founder/investor/executive profile. Palette: white, black, charcoal gray, gold accents. Mobile-friendly and fast-loading. Keywords: Entrepreneur, Investor, Athlete, Leader, Community Builder, Innovator, Impact-Driven.
 
 **Inspiration sites:**
-- **usainbolt.com** — storytelling. Builds a narrative around the athlete's journey rather than just listing facts, which suits Abdulrahim's mix of athletic and entrepreneurial chapters.
-- **badosapaula.com** — clarity. Clean, uncluttered, every element with a clear purpose; a model for keeping the site focused and easy to navigate.
-- **allysonfelix.com** — simplicity. Elegant and restrained, letting strong imagery and a clear mission carry the site — a good reference for an athlete whose work spans sport and social impact.
+- **usainbolt.com** — storytelling; builds a narrative around the athlete's journey.
+- **badosapaula.com** — clarity; clean and uncluttered, every element purposeful.
+- **allysonfelix.com** — simplicity; elegant and restrained, strong imagery and clear mission.
 
 ## Layout Plan
 
-- Hand-drawn layout sketch committed to the repo (see images/sketch.jpg).
-- Reference site to emulate: a blend of the three above — Usain Bolt's storytelling structure, Allyson Felix's visual simplicity, and Paula Badosa's clarity.
-- The layout was planned around a clear three-part identity (athlete / entrepreneur / community) so that a first-time visitor understands who he is within seconds of landing on the home page.
+- Hand-drawn layout sketch committed to the repo (images/sketch.jpg).
+- Direction: a blend of the three references — Bolt's storytelling structure, Felix's visual simplicity, Badosa's clarity.
+- Planned around a clear identity (athlete / entrepreneur / community) so a first-time visitor understands who he is within seconds.
+- Note: this v1 uses a dark charcoal + gold treatment; a lighter "executive profile" layout matching the full white/gold palette is planned for iteration two based on client feedback.
