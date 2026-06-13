@@ -323,3 +323,13 @@ footer {
     margin-top: 48px;
     margin-bottom: 48px;
 }
+/* ===== About page images ===== */
+.about-img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 10px;
+    margin: 20px 0;
+    display: block;
+    border: 1px solid #2E2E34;
+}
